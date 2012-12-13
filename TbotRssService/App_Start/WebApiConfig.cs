@@ -11,7 +11,8 @@ namespace TbotRssService
         {
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
-                routeTemplate: "{controller}"
+                routeTemplate: "{controller}",
+                defaults: new { controller = "rss" }
             );
         }
     }
