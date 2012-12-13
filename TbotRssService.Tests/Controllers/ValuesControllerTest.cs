@@ -5,8 +5,6 @@ using System.Net.Http;
 using System.Text;
 using System.Web.Http;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using TbotRssService;
-using TbotRssService.Controllers;
 
 namespace TbotRssService.Tests.Controllers
 {
@@ -16,9 +14,6 @@ namespace TbotRssService.Tests.Controllers
         [TestMethod]
         public void Get()
         {
-            // Arrange
-            ValuesController controller = new ValuesController();
-
             // Act
             IEnumerable<string> result = controller.Get();
 
