@@ -18,7 +18,7 @@ namespace TbotRssService
         {
             AreaRegistration.RegisterAllAreas();
 
-            WebApiConfig.Register(GlobalConfiguration.Configuration);
+            RouteConfig.RegisterRoutes(RouteTable.Routes); 
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
         }
     }
