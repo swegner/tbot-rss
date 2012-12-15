@@ -1,7 +1,10 @@
 ﻿using System;
+using System.IO;
+using System.Reflection;
 using System.ServiceModel.Syndication;
 using System.Web.Http;
 using System.Web.Mvc;
+using System.Xml;
 
 namespace TbotRssService
 {
@@ -9,15 +12,24 @@ namespace TbotRssService
     {
          public SyndicationFeedResult Feed()
          {
-             SyndicationFeed feed = new SyndicationFeed("title", "description", new Uri("http://alternativeLink"), "id", new DateTimeOffset(DateTime.Now))
-             {
-                Items = new[]
-                {
-                    new SyndicationItem("item title", "content", new Uri("http://alternativeLink/content"), "contentId", new DateTimeOffset(DateTime.Now)),
-                }
-             };
+             SyndicationFeed feed = this.LoadFeed();
 
              return new SyndicationFeedResult(feed);
+         }
+
+         private SyndicationFeed LoadFeed()
+         {
+             SyndicationFeed feed;
+
+             string executingDirectory = Path.GetDirectoryName(new Uri(Assembly.GetExecutingAssembly().CodeBase).LocalPath);
+             string sampleDataFile = Path.Combine(executingDirectory, "sample-data.txt");
+             using (FileStream fileStream = System.IO.File.OpenRead(sampleDataFile))
+             using (XmlReader reader = new XmlTextReader(fileStream))
+             {
+                 feed = SyndicationFeed.Load(reader);
+             }
+
+             return feed;
          }
     }
 }

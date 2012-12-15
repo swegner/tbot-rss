@@ -129,6 +129,7 @@
     <Content Include="Global.asax" />
     <Content Include="sample-data.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
     </Content>
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
