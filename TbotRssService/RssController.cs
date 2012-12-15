@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Reflection;
 using System.ServiceModel.Syndication;
@@ -10,11 +11,32 @@ namespace TbotRssService
 {
     public class RssController : Controller
     {
+        private static readonly IEnumerable<ISyndicationFeedVisitor> FeedVisitors = new List<ISyndicationFeedVisitor>();
+        private static readonly IEnumerable<ISyndicationItemVisitor> ItemVisitors = new List<ISyndicationItemVisitor>(); 
+
          public SyndicationFeedResult Feed()
          {
              SyndicationFeed feed = this.LoadFeed();
 
+             this.TransformFeed(feed);
+
              return new SyndicationFeedResult(feed);
+         }
+
+         private void TransformFeed(SyndicationFeed feed)
+         {
+             foreach (ISyndicationFeedVisitor feedVisitor in RssController.FeedVisitors)
+             {
+                 feedVisitor.TransformFeed(feed);
+             }
+
+             foreach (var item in feed.Items)
+             {
+                 foreach (ISyndicationItemVisitor itemVisitor in RssController.ItemVisitors)
+                 {
+                     itemVisitor.TransformItem(item);
+                 }
+             }
          }
 
          private SyndicationFeed LoadFeed()
