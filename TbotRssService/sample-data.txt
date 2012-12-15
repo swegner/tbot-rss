@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://businessoftech.com/podcast/feed/1" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+ <title>The Business of Tech Podcast</title>
+ <link>http://businessoftech.com/podcast/feed/1</link>
+ <description>TBOT - Technology Business Analysis</description>
+ <language>en</language>
+ <itunes:owner> <itunes:email>no-reply@businessoftech.com</itunes:email>
+</itunes:owner>
+<item>
+ <title>Episode 84: It Always Comes Back...</title>
+ <link>http://businessoftech.com/podcast/187/episode-84-it-always-comes-back</link>
+ <description>&lt;p&gt;Keep your friends close and your enemies closer, because it&#039;s time for The Business of Tech! This week we discuss Patraues&#039; techno-blunder, Forstall ousted at Apple, Sinofsky ousted at Microsoft, Pinterest getting business ready and much, much more. So set aside 1 hour and 2 minutes to cover your tracks with Kyle Wegner and Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/186/episode-84-it-always-comes-backt&quot;&gt; TBOT #84 - It Always Comes Back... - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/187/episode-84-it-always-comes-back#comments</comments>
+ <pubDate>Sun, 18 Nov 2012 15:22:21 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_84_the_business_of_tech_podcast.mp3" length="30358383" type="audio/mpeg" />
+ <itunes:duration>63:14</itunes:duration>
+ <itunes:author />
+ <itunes:subtitle>Keep your friends close and your enemies closer, because it&#039;s time for The Business of Tech! This week we discuss Patraues&#039; techno-blunder, Forstall ousted at Apple, Sinofsky ousted at Microsoft, Pinterest getting business ready and much, much more. So...</itunes:subtitle>
+ <itunes:summary>Keep your friends close and your enemies closer, because it&#039;s time for The Business of Tech! This week we discuss Patraues&#039; techno-blunder, Forstall ousted at Apple, Sinofsky ousted at Microsoft, Pinterest getting business ready and much, much more. So set aside 1 hour and 2 minutes to cover your tracks with Kyle Wegner and Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #84 - It Always Comes Back... - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_84_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 83: Apple&#039;s Big Mini Announcement</title>
+ <link>http://businessoftech.com/podcast/185/episode-83-apples-big-mini-announcement</link>
+ <description>&lt;p&gt;Vote for hope, change and TBOT because it&#039;s time for The Business of Tech! This week we discuss Microsoft&#039;s Windows 8 launch week, including Jerelle&#039;s new Surface and Tim Cook&#039;s comments, Apple&#039;s new iPad mini and their entire line of refreshed products and much, much more. So set aside 1 hour and 15 minutes to make your voice heard with Kyle Wegner and Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/184/episode-83-apples-big-mini-announcement&quot;&gt; TBOT #83 - Apple&#039;s Big Mini Announcement - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/185/episode-83-apples-big-mini-announcement#comments</comments>
+ <pubDate>Tue, 30 Oct 2012 12:00:47 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_83_the_business_of_tech_podcast.mp3" length="32330942" type="audio/mpeg" />
+ <itunes:duration>67:21</itunes:duration>
+ <itunes:author />
+ <itunes:subtitle>Vote for hope, change and TBOT because it&#039;s time for The Business of Tech! This week we discuss Microsoft&#039;s Windows 8 launch week, including Jerelle&#039;s new Surface and Tim Cook&#039;s comments, Apple&#039;s new iPad mini and their entire line of refreshed product...</itunes:subtitle>
+ <itunes:summary>Vote for hope, change and TBOT because it&#039;s time for The Business of Tech! This week we discuss Microsoft&#039;s Windows 8 launch week, including Jerelle&#039;s new Surface and Tim Cook&#039;s comments, Apple&#039;s new iPad mini and their entire line of refreshed products and much, much more. So set aside 1 hour and 15 minutes to make your voice heard with Kyle Wegner and Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #83 - Apple&#039;s Big Mini Announcement - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_83_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 82: Schmidt Spinning</title>
+ <link>http://businessoftech.com/podcast/183/episode-82-schmidt-spinning</link>
+ <description>&lt;p&gt;We hope you&#039;re sitting down, because it&#039;s time for The Business of Tech! This week we discuss Eric Schmidt&#039;s Google TV predictions, Schmidt defining the mobile industry, Ballmer redefining Microsoft and much, much more. So set aside 1 hour and 10 minutes to meander with Kyle Wegner and Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/182/episode-82-schmidt-spinning&quot;&gt; TBOT #82 - Schmidt Spinning - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/183/episode-82-schmidt-spinning#comments</comments>
+ <pubDate>Sun, 14 Oct 2012 13:42:39 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_82_the_business_of_tech_podcast.mp3" length="30400597" type="audio/mpeg" />
+ <itunes:duration>63:20</itunes:duration>
+ <itunes:author />
+ <itunes:subtitle>We hope you&#039;re sitting down, because it&#039;s time for The Business of Tech! This week we discuss Eric Schmidt&#039;s Google TV predictions, Schmidt defining the mobile industry, Ballmer redefining Microsoft and much, much more. So set aside 1 hour and 10 minut...</itunes:subtitle>
+ <itunes:summary>We hope you&#039;re sitting down, because it&#039;s time for The Business of Tech! This week we discuss Eric Schmidt&#039;s Google TV predictions, Schmidt defining the mobile industry, Ballmer redefining Microsoft and much, much more. So set aside 1 hour and 10 minutes to meander with Kyle Wegner and Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #82 - Schmidt Spinning - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_82_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 81: Back in Action</title>
+ <link>http://businessoftech.com/podcast/181/episode-81-back-action</link>
+ <description>&lt;p&gt;Did you miss us? Well, things are better now because it&#039;s time for The Business of Tech! This week we discuss Facebook hitting 1 billion, $7 for Facebook fame, Craigslist mapping, Windows 8 and much, much more. So set aside 1 hour and 30 minutes to catch up with Kyle Wegner and Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/180/episode-81-back-action&quot;&gt; TBOT #81 - Back in Action - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/181/episode-81-back-action#comments</comments>
+ <pubDate>Sun, 07 Oct 2012 15:43:26 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_81_the_business_of_tech_podcast.mp3" length="44121362" type="audio/mpeg" />
+ <itunes:duration>91:55</itunes:duration>
+ <itunes:author />
+ <itunes:subtitle>Did you miss us? Well, things are better now because it&#039;s time for The Business of Tech! This week we discuss Facebook hitting 1 billion, $7 for Facebook fame, Craigslist mapping, Windows 8 and much, much more. So set aside 1 hour and 30 minutes to cat...</itunes:subtitle>
+ <itunes:summary>Did you miss us? Well, things are better now because it&#039;s time for The Business of Tech! This week we discuss Facebook hitting 1 billion, $7 for Facebook fame, Craigslist mapping, Windows 8 and much, much more. So set aside 1 hour and 30 minutes to catch up with Kyle Wegner and Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #81 - Back in Action - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_81_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 80: Square, The Little Company That Could</title>
+ <link>http://businessoftech.com/podcast/178/episode-80-square-little-company-could</link>
+ <description>&lt;p&gt;Reach down and stretch it out because it&#039;s time for The Business of Tech! This week we discuss IE 10&#039;s Do Not Track, Metro no longer, Square in Starbucks, Apple v. Samsung and much, much more. So set aside 1 hour and 10 minutes to get loose with Kyle Wegner and Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/177/episode-80-square-little-company-could&quot;&gt; TBOT #80 - Square, The Little Company That Could - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/178/episode-80-square-little-company-could#comments</comments>
+ <pubDate>Sat, 11 Aug 2012 16:17:33 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_80_the_business_of_tech_podcast.mp3" length="27143650" type="audio/mpeg" />
+ <itunes:duration>56:32</itunes:duration>
+ <itunes:author />
+ <itunes:subtitle>Reach down and stretch it out because it&#039;s time for The Business of Tech! This week we discuss IE 10&#039;s Do Not Track, Metro no longer, Square in Starbucks, Apple v. Samsung and much, much more. So set aside 1 hour and 10 minutes to get loose with Kyle W...</itunes:subtitle>
+ <itunes:summary>Reach down and stretch it out because it&#039;s time for The Business of Tech! This week we discuss IE 10&#039;s Do Not Track, Metro no longer, Square in Starbucks, Apple v. Samsung and much, much more. So set aside 1 hour and 10 minutes to get loose with Kyle Wegner and Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #80 - Square, The Little Company That Could - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_80_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 79: That Little Thing that Nobody Bought</title>
+ <link>http://businessoftech.com/podcast/176/episode-79-little-thing-nobody-bought</link>
+ <description>&lt;p&gt;Put your feet up &amp;amp; take some time to relax because it&#039;s time for The Business of Tech! This week we discuss Verizon ending tethering restrictions, Outlook.com, Zynga&#039;s insider trading problem, Mountain Lion #Winning and much, much more. So set aside 1 hour and 10 minutes to simmer down Kyle Wegner and Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/175/episode-79-little-thing-nobody-bought&quot;&gt; TBOT #79 - That Little Thing that Nobody Bought - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/176/episode-79-little-thing-nobody-bought#comments</comments>
+ <pubDate>Wed, 08 Aug 2012 00:08:56 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_79_the_business_of_tech_podcast.mp3" length="34406945" type="audio/mpeg" />
+ <itunes:duration>71:40</itunes:duration>
+ <itunes:author />
+ <itunes:subtitle>Put your feet up &amp; take some time to relax because it&#039;s time for The Business of Tech! This week we discuss Verizon ending tethering restrictions, Outlook.com, Zynga&#039;s insider trading problem, Mountain Lion #Winning and much, much more. So set asid...</itunes:subtitle>
+ <itunes:summary>Put your feet up &amp; take some time to relax because it&#039;s time for The Business of Tech! This week we discuss Verizon ending tethering restrictions, Outlook.com, Zynga&#039;s insider trading problem, Mountain Lion #Winning and much, much more. So set aside 1 hour and 10 minutes to simmer down Kyle Wegner and Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #79 - That Little Thing that Nobody Bought - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_79_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 78: Digg in a Hole</title>
+ <link>http://businessoftech.com/podcast/174/episode-78-digg-hole</link>
+ <description>&lt;p&gt;It&#039;s about time to get back into the swing of it because it&#039;s time for The Business of Tech! This week we discuss Digg selling for pennies on the dollar, Google&#039;s Nexus 7 shipping, Apple flip flopping (and the post-Jobsian era), Marissa Mayer taking over at Yahoo and much, much more. So set aside 1 hour to catch up with your old friends Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/173/episode-78-digg-hole&quot;&gt; TBOT #78 - Digg in a Hole- Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/174/episode-78-digg-hole#comments</comments>
+ <pubDate>Wed, 25 Jul 2012 01:08:39 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_78_the_business_of_tech_podcast.mp3" length="31186151" type="audio/mpeg" />
+ <itunes:duration>64:58</itunes:duration>
+ <itunes:author />
+ <itunes:subtitle>It&#039;s about time to get back into the swing of it because it&#039;s time for The Business of Tech! This week we discuss Digg selling for pennies on the dollar, Google&#039;s Nexus 7 shipping, Apple flip flopping (and the post-Jobsian era), Marissa Mayer taking ov...</itunes:subtitle>
+ <itunes:summary>It&#039;s about time to get back into the swing of it because it&#039;s time for The Business of Tech! This week we discuss Digg selling for pennies on the dollar, Google&#039;s Nexus 7 shipping, Apple flip flopping (and the post-Jobsian era), Marissa Mayer taking over at Yahoo and much, much more. So set aside 1 hour to catch up with your old friends Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #78 - Digg in a Hole- Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_78_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 77: It&#039;s All About Apple</title>
+ <link>http://businessoftech.com/podcast/172/episode-77-its-all-about-apple</link>
+ <description>&lt;p&gt;Pump, pump, pump it up, because it&#039;s time for The Business of Tech! This week we discuss Apple&#039;s WWDC announcements, Nokia layoffs and much, much more. So set aside 1 hour to get your fix of Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/171/episode-77-its-all-about-apple&quot;&gt; TBOT #77 - It&#039;s All About Apple - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/172/episode-77-its-all-about-apple#comments</comments>
+ <pubDate>Sun, 17 Jun 2012 13:43:13 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_77_the_business_of_tech_podcastmp3.mp3" length="66137362" type="audio/mpeg" />
+ <itunes:duration>68:53</itunes:duration>
+ <itunes:author>Kyle Wegner</itunes:author>
+ <itunes:subtitle>Pump, pump, pump it up, because it&#039;s time for The Business of Tech! This week we discuss Apple&#039;s WWDC announcements, Nokia layoffs and much, much more. So set aside 1 hour to get your fix of Kyle Wegner and  Jerelle Gainey on The Business of Tech podca...</itunes:subtitle>
+ <itunes:summary>Pump, pump, pump it up, because it&#039;s time for The Business of Tech! This week we discuss Apple&#039;s WWDC announcements, Nokia layoffs and much, much more. So set aside 1 hour to get your fix of Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #77 - It&#039;s All About Apple - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_77_the_business_of_tech_podcastmp3.mp3</guid>
+</item>
+<item>
+ <title>Episode 76: The Xbox is the Lance in the Joust Against Google</title>
+ <link>http://businessoftech.com/podcast/170/episode-76-xbox-lance-joust-against-google</link>
+ <description>&lt;p&gt;We know you&#039;ve missed us, but start feeling better because it&#039;s time for The Business of Tech! This week we discuss Facebook App Center, XBOX Smartglass, IE&#039;s privacy problems, Google search updates, weaponized Stuxnet and much, much more. So set aside 1 hour to get your fix of Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/169/episode-76-xbox-lance-joust-against-google&quot;&gt; TBOT #76 - The Xbox is the Lance in the Joust Against Google - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/170/episode-76-xbox-lance-joust-against-google#comments</comments>
+ <pubDate>Thu, 14 Jun 2012 17:54:55 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_76_the_business_of_tech_podcast.mp3" length="52524431" type="audio/mpeg" />
+ <itunes:duration>54:43</itunes:duration>
+ <itunes:author>Kyle Wegner</itunes:author>
+ <itunes:subtitle>We know you&#039;ve missed us, but start feeling better because it&#039;s time for The Business of Tech! This week we discuss Facebook App Center, XBOX Smartglass, IE&#039;s privacy problems, Google search updates, weaponized Stuxnet and much, much more. So set aside...</itunes:subtitle>
+ <itunes:summary>We know you&#039;ve missed us, but start feeling better because it&#039;s time for The Business of Tech! This week we discuss Facebook App Center, XBOX Smartglass, IE&#039;s privacy problems, Google search updates, weaponized Stuxnet and much, much more. So set aside 1 hour to get your fix of Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #76 - The Xbox is the Lance in the Joust Against Google - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_76_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 74: Drop By For A Drive In the Sky on Sugar Clouds</title>
+ <link>http://businessoftech.com/podcast/167/episode-74-drop-drive-sky-sugar-clouds</link>
+ <description>&lt;p&gt;Shake yourself out of that stupor up because it&#039;s time for The Business of Tech! This week we discuss Google Drive, Facebook buying patents, quarterly results (Apple Wins Big!), Nokia as junk and much, much more. So set aside 1 hour to get slap happy with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/166/episode-74-drop-drive-sky-sugar-clouds&quot;&gt; TBOT #74 - Drop By For A Drive In the Sky on Sugar Clouds - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/167/episode-74-drop-drive-sky-sugar-clouds#comments</comments>
+ <pubDate>Sun, 29 Apr 2012 14:41:50 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_74_the_business_of_tech_podcast.mp3" length="41927431" type="audio/mpeg" />
+ <itunes:duration>58:00</itunes:duration>
+ <itunes:author>Kyle Wegner &amp; Jerelle Gainey</itunes:author>
+ <itunes:subtitle>Shake yourself out of that stupor up because it&#039;s time for The Business of Tech! This week we discuss Google Drive, Facebook buying patents, quarterly results (Apple Wins Big!), Nokia as junk and much, much more. So set aside 1 hour to get slap happy w...</itunes:subtitle>
+ <itunes:summary>Shake yourself out of that stupor up because it&#039;s time for The Business of Tech! This week we discuss Google Drive, Facebook buying patents, quarterly results (Apple Wins Big!), Nokia as junk and much, much more. So set aside 1 hour to get slap happy with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #74 - Drop By For A Drive In the Sky on Sugar Clouds - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_74_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 73: Boatload of Money</title>
+ <link>http://businessoftech.com/podcast/165/episode-73-boatload-money</link>
+ <description>&lt;p&gt;Get those blog fingers warmed up because it&#039;s time for The Business of Tech! This week we discuss Tupac&#039;s hologram, Facebook Listen, Twitter&#039;s Innovators Patent Agreement, the Bing API, Apple&#039;s price fixing and much, much more. So set aside 1 hour to embark on a journey with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/164/episode-73-boatload-money&quot;&gt; TBOT #73 - Boatload of Money - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/165/episode-73-boatload-money#comments</comments>
+ <pubDate>Sat, 21 Apr 2012 17:46:39 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_73_the_business_of_tech_podcast.mp3" length="44070893" type="audio/mpeg" />
+ <itunes:duration>61:00</itunes:duration>
+ <itunes:author>Kyle Wegner &amp; Jerelle Gainey</itunes:author>
+ <itunes:subtitle>Get those blog fingers warmed up because it&#039;s time for The Business of Tech! This week we discuss Tupac&#039;s hologram, Facebook Listen, Twitter&#039;s Innovators Patent Agreement, the Bing API, Apple&#039;s price fixing and much, much more. So set aside 1 hour to e...</itunes:subtitle>
+ <itunes:summary>Get those blog fingers warmed up because it&#039;s time for The Business of Tech! This week we discuss Tupac&#039;s hologram, Facebook Listen, Twitter&#039;s Innovators Patent Agreement, the Bing API, Apple&#039;s price fixing and much, much more. So set aside 1 hour to embark on a journey with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #73 - Boatload of Money - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_73_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 72: Insta-Billion</title>
+ <link>http://businessoftech.com/podcast/163/episode-72-insta-billion</link>
+ <description>&lt;p&gt;We know you&#039;re easily distracted, but settle down because it&#039;s time for The Business of Tech! This week we discuss Facebook buying Instagram, Instagram on Android, Facebook &amp;amp; Yahoo! patents, Google&#039;s terms with Oracle, Best Buy&#039;s CEO changup and much, much more. So set aside 1 hour and 16 minutes to take a trip with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/162/episode-72-insta-billion&quot;&gt; TBOT #72 - Insta-Billion - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/163/episode-72-insta-billion#comments</comments>
+ <pubDate>Sat, 14 Apr 2012 14:01:03 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_72_the_business_of_tech_podcast.mp3" length="50236599" type="audio/mpeg" />
+ <itunes:duration>67:53</itunes:duration>
+ <itunes:author>Kyle Wegner &amp; Jerelle Gainey</itunes:author>
+ <itunes:subtitle>We know you&#039;re easily distracted, but settle down because it&#039;s time for The Business of Tech! This week we discuss Facebook buying Instagram, Instagram on Android, Facebook &amp; Yahoo! patents, Google&#039;s terms with Oracle, Best Buy&#039;s CEO changup and mu...</itunes:subtitle>
+ <itunes:summary>We know you&#039;re easily distracted, but settle down because it&#039;s time for The Business of Tech! This week we discuss Facebook buying Instagram, Instagram on Android, Facebook &amp; Yahoo! patents, Google&#039;s terms with Oracle, Best Buy&#039;s CEO changup and much, much more. So set aside 1 hour and 16 minutes to take a trip with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #72 - Insta-Billion - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_72_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 71: Know When To Hold Em, Know When to Fold Em</title>
+ <link>http://businessoftech.com/podcast/161/episode-71-know-when-hold-em-know-when-fold-em</link>
+ <description>&lt;p&gt;Don&#039;t let your ambitions get in the way, because it&#039;s time for The Business of Tech! This week we discuss Apple&#039;sdividends, Zynga buying OMGPOP, Beats Audio buying MOG, Yahoo&#039;s patent offensive, XBOX as a media device and much, much more. So set aside 1 hour and 38 minutes to dork out with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/160/episode-71-know-when-hold-em-know-when-fold-em&quot;&gt; TBOT #71 - Know When To Hold Em, Know When to Fold Em - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/161/episode-71-know-when-hold-em-know-when-fold-em#comments</comments>
+ <pubDate>Fri, 30 Mar 2012 16:28:07 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_71_the_business_of_tech_podcast.mp3" length="72526530" type="audio/mpeg" />
+ <itunes:duration>98:55</itunes:duration>
+ <itunes:author>Kyle Wegner &amp; Jerelle Gainey</itunes:author>
+ <itunes:subtitle>Don&#039;t let your ambitions get in the way, because it&#039;s time for The Business of Tech! This week we discuss Apple&#039;sdividends, Zynga buying OMGPOP, Beats Audio buying MOG, Yahoo&#039;s patent offensive, XBOX as a media device and much, much more. So set aside ...</itunes:subtitle>
+ <itunes:summary>Don&#039;t let your ambitions get in the way, because it&#039;s time for The Business of Tech! This week we discuss Apple&#039;sdividends, Zynga buying OMGPOP, Beats Audio buying MOG, Yahoo&#039;s patent offensive, XBOX as a media device and much, much more. So set aside 1 hour and 38 minutes to dork out with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #71 - Know When To Hold Em, Know When to Fold Em - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_71_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 70: Pre-SXSW</title>
+ <link>http://businessoftech.com/podcast/159/episode-70-pre-sxsw</link>
+ <description>&lt;p&gt;Put your nerd caps on, because it&#039;s time for The Business of Tech! This week we discuss Google Play, SXSW, serendipitous people discovery apps and much, much more. So set aside 53 minutes to get digital with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/159/episode-70-pre-sxsw#comments</comments>
+ <pubDate>Fri, 09 Mar 2012 14:53:47 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_70_the_business_of_tech_podcast.mp3" length="25215395" type="audio/mpeg" />
+ <itunes:duration>52:31</itunes:duration>
+ <itunes:author>Kyle Wegner</itunes:author>
+ <itunes:subtitle>Put your nerd caps on, because it&#039;s time for The Business of Tech! This week we discuss Google Play, SXSW, serendipitous people discovery apps and much, much more. So set aside 53 minutes to get digital with Kyle Wegner and  Jerelle Gainey on The Busin...</itunes:subtitle>
+ <itunes:summary>Put your nerd caps on, because it&#039;s time for The Business of Tech! This week we discuss Google Play, SXSW, serendipitous people discovery apps and much, much more. So set aside 53 minutes to get digital with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_70_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 69: Young Scoble!</title>
+ <link>http://businessoftech.com/podcast/157/episode-69-young-scoble</link>
+ <description>&lt;p&gt;May all of your wishes come true, because it&#039;s time for The Business of Tech! This week we discuss Facebook Timeline for Page, Facebook&#039;s new premium ads, Windows 8 Consumer Preview, Zynga.com, the year of privacy and much, much more. So set aside 1 hour and 32 minutes to get complicated with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/156/episode-69-young-scoble&quot;&gt; TBOT #69 - Young Scoble! - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/157/episode-69-young-scoble#comments</comments>
+ <pubDate>Sun, 04 Mar 2012 15:22:32 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_69_the_business_of_tech_podcast.mp3" length="67886852" type="audio/mpeg" />
+ <itunes:duration>93:07</itunes:duration>
+ <itunes:author>Kyle Wegner &amp; Jerelle Gainey</itunes:author>
+ <itunes:subtitle>May all of your wishes come true, because it&#039;s time for The Business of Tech! This week we discuss Facebook Timeline for Page, Facebook&#039;s new premium ads, Windows 8 Consumer Preview, Zynga.com, the year of privacy and much, much more. So set aside 1 ho...</itunes:subtitle>
+ <itunes:summary>May all of your wishes come true, because it&#039;s time for The Business of Tech! This week we discuss Facebook Timeline for Page, Facebook&#039;s new premium ads, Windows 8 Consumer Preview, Zynga.com, the year of privacy and much, much more. So set aside 1 hour and 32 minutes to get complicated with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #69 - Young Scoble! - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_69_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 68: Unabashedly Bashing Google</title>
+ <link>http://businessoftech.com/podcast/155/episode-68-unabashedly-bashing-google</link>
+ <description>&lt;p&gt;Please keep your pants on, because it&#039;s time for The Business of Tech! This week we discuss Google Motorola moving forward, Google breaking the rules, Skydrive upgrades, Comcast&#039;s Streampix launching, Netflix getting Weinstein flix and much, much more. So set aside 1 hour and 8 minutes to relax with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/154/episode-68-unabashedly-bashing-google&quot;&gt; TBOT #68 - Unabashedly Bashing Google - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/155/episode-68-unabashedly-bashing-google#comments</comments>
+ <pubDate>Sun, 26 Feb 2012 15:53:46 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_68_the_business_of_tech_podcast.mp3" length="53108714" type="audio/mpeg" />
+ <itunes:duration>72:52</itunes:duration>
+ <itunes:author>Kyle Wegner &amp; Jerelle Gainey</itunes:author>
+ <itunes:subtitle>Please keep your pants on, because it&#039;s time for The Business of Tech! This week we discuss Google Motorola moving forward, Google breaking the rules, Skydrive upgrades, Comcast&#039;s Streampix launching, Netflix getting Weinstein flix and much, much more....</itunes:subtitle>
+ <itunes:summary>Please keep your pants on, because it&#039;s time for The Business of Tech! This week we discuss Google Motorola moving forward, Google breaking the rules, Skydrive upgrades, Comcast&#039;s Streampix launching, Netflix getting Weinstein flix and much, much more. So set aside 1 hour and 8 minutes to relax with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #68 - Unabashedly Bashing Google - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_68_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 67: Put Something On It!</title>
+ <link>http://businessoftech.com/podcast/153/episode-67-put-something-it</link>
+ <description>&lt;p&gt;We&#039;re hoping you feel appreciated, because it&#039;s time for The Business of Tech! This week we discuss Redbox making multiple moves, Netflix&#039;s Lillyhammer, Windows Phone 8 details, Google Bouncer, Facebook&#039;s IPO and much, much more. So set aside 1 hour and 18 minutes to come up with something beautiful with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://www.businessoftech.com/show-notes/152/episode-67-put-something-it&quot;&gt; TBOT #67 - Put Something On It! - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/153/episode-67-put-something-it#comments</comments>
+ <pubDate>Fri, 10 Feb 2012 03:37:36 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_67_the_business_of_tech_podcast.mp3" length="55943274" type="audio/mpeg" />
+ <itunes:duration>78:12</itunes:duration>
+ <itunes:author>Kyle Wegner &amp; Jerelle Gainey</itunes:author>
+ <itunes:subtitle>We&#039;re hoping you feel appreciated, because it&#039;s time for The Business of Tech! This week we discuss Redbox making multiple moves, Netflix&#039;s Lillyhammer, Windows Phone 8 details, Google Bouncer, Facebook&#039;s IPO and much, much more. So set aside 1 hour an...</itunes:subtitle>
+ <itunes:summary>We&#039;re hoping you feel appreciated, because it&#039;s time for The Business of Tech! This week we discuss Redbox making multiple moves, Netflix&#039;s Lillyhammer, Windows Phone 8 details, Google Bouncer, Facebook&#039;s IPO and much, much more. So set aside 1 hour and 18 minutes to come up with something beautiful with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #67 - Put Something On It! - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_67_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 66: What Now Rubinstein?</title>
+ <link>http://businessoftech.com/podcast/151/episode-66-what-now-rubinstein</link>
+ <description>&lt;p&gt;Put a smile on that face of yours, because it&#039;s time for The Business of Tech! This week we discuss Google and privacy, RIM&#039;s CEO shuffle, Rubenstein as a free agent, Apple&#039;s massive quarter, Netflix on the comeback and much, much more. So set aside 1 hour and 18 minutes to become unstoppable with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/150/episode-66-what-now-rubinstein&quot;&gt; TBOT #66 - What Now Rubinstein? - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/151/episode-66-what-now-rubinstein#comments</comments>
+ <pubDate>Sun, 05 Feb 2012 00:56:47 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_66_the_business_of_tech_podcast.mp3" length="57688617" type="audio/mpeg" />
+ <itunes:duration>79:28</itunes:duration>
+ <itunes:author>Kyle Wegner &amp; Jerelle Gainey</itunes:author>
+ <itunes:subtitle>Put a smile on that face of yours, because it&#039;s time for The Business of Tech! This week we discuss Google and privacy, RIM&#039;s CEO shuffle, Rubenstein as a free agent, Apple&#039;s massive quarter, Netflix on the comeback and much, much more. So set aside 1 ...</itunes:subtitle>
+ <itunes:summary>Put a smile on that face of yours, because it&#039;s time for The Business of Tech! This week we discuss Google and privacy, RIM&#039;s CEO shuffle, Rubenstein as a free agent, Apple&#039;s massive quarter, Netflix on the comeback and much, much more. So set aside 1 hour and 18 minutes to become unstoppable with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #66 - What Now Rubinstein? - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_66_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 65: Borgs Up, Gs Down</title>
+ <link>http://businessoftech.com/podcast/149/episode-65-borgs-gs-down</link>
+ <description>&lt;p&gt;Don&#039;t forget to with Jerelle happy birthday because it&#039;s time for The Business of Tech! This week we discuss Apple&#039;s education update, SOPA blackouts, Kodak going bankrupt, Google missing quarterly numbers, Microsoft killing it and much, much more. So set aside 1 hour and 28 minutes to sing along with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/148/episode-65-borgs-gs-down&quot;&gt; TBOT #65 - Borgs Up, Gs Down - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/149/episode-65-borgs-gs-down#comments</comments>
+ <pubDate>Fri, 27 Jan 2012 02:19:09 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_65_the_business_of_tech_podcast.mp3" length="59464064" type="audio/mpeg" />
+ <itunes:duration>81:24</itunes:duration>
+ <itunes:author>Kyle Wegner &amp; Jerelle Gainey</itunes:author>
+ <itunes:subtitle>Don&#039;t forget to with Jerelle happy birthday because it&#039;s time for The Business of Tech! This week we discuss Apple&#039;s education update, SOPA blackouts, Kodak going bankrupt, Google missing quarterly numbers, Microsoft killing it and much, much more. So ...</itunes:subtitle>
+ <itunes:summary>Don&#039;t forget to with Jerelle happy birthday because it&#039;s time for The Business of Tech! This week we discuss Apple&#039;s education update, SOPA blackouts, Kodak going bankrupt, Google missing quarterly numbers, Microsoft killing it and much, much more. So set aside 1 hour and 28 minutes to sing along with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #65 - Borgs Up, Gs Down - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_65_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 64: The Episode Where We Discuss Google +</title>
+ <link>http://businessoftech.com/podcast/147/episode-64-episode-where-we-discuss-google</link>
+ <description>&lt;p&gt;Don&#039;t get all hyped up and start deleting profiles, because it&#039;s time for The Business of Tech! This week we discuss everything CES, Windows Phone, Netflix &amp;amp; Warner Bros., Monster &amp;amp; Beats Electronics breaking up, Search Plus Your World and much, much more. So set aside 1 hour and 52 minutes to emphatically debate with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/146/episode-64-episode-where-we-discuss-google&quot;&gt; TBOT #64 - The Episode Where We Discuss Google + - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/147/episode-64-episode-where-we-discuss-google#comments</comments>
+ <pubDate>Sun, 15 Jan 2012 16:20:53 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_64.mp3" length="82723074" type="audio/mpeg" />
+ <itunes:duration>114:00</itunes:duration>
+ <itunes:author>Kyle Wegner &amp; Jerelle Gainey</itunes:author>
+ <itunes:subtitle>Don&#039;t get all hyped up and start deleting profiles, because it&#039;s time for The Business of Tech! This week we discuss everything CES, Windows Phone, Netflix &amp; Warner Bros., Monster &amp; Beats Electronics breaking up, Search Plus Your World and much...</itunes:subtitle>
+ <itunes:summary>Don&#039;t get all hyped up and start deleting profiles, because it&#039;s time for The Business of Tech! This week we discuss everything CES, Windows Phone, Netflix &amp; Warner Bros., Monster &amp; Beats Electronics breaking up, Search Plus Your World and much, much more. So set aside 1 hour and 52 minutes to emphatically debate with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #64 - The Episode Where We Discuss Google + - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_64.mp3</guid>
+</item>
+<item>
+ <title>Episode 62: Appleholics Anonymous</title>
+ <link>http://businessoftech.com/podcast/144/episode-62-appleholics-anonymous</link>
+ <description>&lt;p&gt;Send up the bat signal because it&#039;s time for The Business of Tech! This week we discuss the Olympus hiding funds, Gowalla purchased by Facebook, Google acquiring Admeld, GoogleTV takeover, XBOX&#039;s big update and much, much more. So set aside 1 hour and 36 minutes to fight some crime with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/143/episode-62-appleholics-anonymous&quot;&gt; TBOT #62 - Appleholics Anonymous - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/144/episode-62-appleholics-anonymous#comments</comments>
+ <pubDate>Sat, 10 Dec 2011 16:23:06 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_62_the_business_of_tech_podcast.mp3" length="71502026" type="audio/mpeg" />
+ <itunes:duration>96:13</itunes:duration>
+ <itunes:author>Kyle Wegner &amp; Jerelle Gainey</itunes:author>
+ <itunes:subtitle>Send up the bat signal because it&#039;s time for The Business of Tech! This week we discuss the Olympus hiding funds, Gowalla purchased by Facebook, Google acquiring Admeld, GoogleTV takeover, XBOX&#039;s big update and much, much more. So set aside 1 hour and ...</itunes:subtitle>
+ <itunes:summary>Send up the bat signal because it&#039;s time for The Business of Tech! This week we discuss the Olympus hiding funds, Gowalla purchased by Facebook, Google acquiring Admeld, GoogleTV takeover, XBOX&#039;s big update and much, much more. So set aside 1 hour and 36 minutes to fight some crime with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #62 - Appleholics Anonymous - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_62_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 61: Mushing MOG</title>
+ <link>http://businessoftech.com/podcast/142/episode-61-mushing-mog</link>
+ <description>&lt;p&gt;Who&#039;s ready for some TBOT in HD? Good thing, because it&#039;s time for The Business of Tech...now in HD! This week we discuss the AT&amp;amp;T/T-Mobile merger, Path v2.0, Netflix getting Arrested Development, Carrier IQ, Spotify getting apps and much, much more. So set aside 1 hour and 28 minutes to listen with great detail with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/141/episode-61-mushing-mog&quot;&gt; TBOT #61 - Mushing MOG - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/142/episode-61-mushing-mog#comments</comments>
+ <pubDate>Sat, 03 Dec 2011 17:13:27 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_61_the_business_of_tech_podcast.mp3" length="65203476" type="audio/mpeg" />
+ <itunes:duration>85:10</itunes:duration>
+ <itunes:author>Kyle Wegner &amp; Jerelle Gainey</itunes:author>
+ <itunes:subtitle>Who&#039;s ready for some TBOT in HD? Good thing, because it&#039;s time for The Business of Tech...now in HD! This week we discuss the AT&amp;T/T-Mobile merger, Path v2.0, Netflix getting Arrested Development, Carrier IQ, Spotify getting apps and much, much mor...</itunes:subtitle>
+ <itunes:summary>Who&#039;s ready for some TBOT in HD? Good thing, because it&#039;s time for The Business of Tech...now in HD! This week we discuss the AT&amp;T/T-Mobile merger, Path v2.0, Netflix getting Arrested Development, Carrier IQ, Spotify getting apps and much, much more. So set aside 1 hour and 28 minutes to listen with great detail with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #61 - Mushing MOG - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_61_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 60: Open for Business</title>
+ <link>http://businessoftech.com/podcast/140/episode-60-open-business</link>
+ <description>&lt;p&gt;Steady your rifle and take aim because it&#039;s time for The Business of Tech! This week we discuss Google Music, open sourcing Ice Cream Sandwich, Logitech bashing GoogleTV, Samsung getting iOS source code,  PC makers stalling tablet production and much, much more. So set aside 1 hour and 43 minutes to dodge bullets with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+ &lt;a href=&quot;http://businessoftech.com/show-notes/139/episode-60-open-business&quot;&gt; TBOT #60 - Open for Business - Show Notes&lt;/a&gt;&lt;br /&gt;
+ Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/140/episode-60-open-business#comments</comments>
+ <pubDate>Tue, 22 Nov 2011 23:42:53 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_60_the_business_of_tech_podcast.mp3" length="74038545" type="audio/mpeg" />
+ <itunes:duration>103:25</itunes:duration>
+ <itunes:author>Kyle Wegner &amp; Jerelle Gainey</itunes:author>
+ <itunes:subtitle>Steady your rifle and take aim because it&#039;s time for The Business of Tech! This week we discuss Google Music, open sourcing Ice Cream Sandwich, Logitech bashing GoogleTV, Samsung getting iOS source code,  PC makers stalling tablet production and much, ...</itunes:subtitle>
+ <itunes:summary>Steady your rifle and take aim because it&#039;s time for The Business of Tech! This week we discuss Google Music, open sourcing Ice Cream Sandwich, Logitech bashing GoogleTV, Samsung getting iOS source code,  PC makers stalling tablet production and much, much more. So set aside 1 hour and 43 minutes to dodge bullets with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+  TBOT #60 - Open for Business - Show Notes
+ Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_60_the_business_of_tech_podcast.mp3</guid>
+</item>
+<item>
+ <title>Episode 59: Window of Opportunity</title>
+ <link>http://businessoftech.com/podcast/138/episode-59-window-opportunity</link>
+ <description>&lt;p&gt;Nah, bra - that&#039;s not it, because it&#039;s time for The Business of Tech! This week we discuss Google+ Brand Pages, Nook Tablet, Verizon&#039;s LTE push, WebOS,  the death of mobile Flash and much, much more. So set aside 1 hour and 31 minutes to take some heat with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://businessoftech.com/show-notes/137/episode-59-window-opportunity&quot;&gt; TBOT #59 - Window of Opportunity - Show Notes&lt;/a&gt;&lt;br /&gt;
+Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/138/episode-59-window-opportunity#comments</comments>
+ <pubDate>Sat, 12 Nov 2011 16:21:17 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_59_the_business_of_tech_podcast_0.mp3" length="67116198" type="audio/mpeg" />
+ <itunes:duration>94:08</itunes:duration>
+ <itunes:author>Kyle Wegner &amp; Jerelle Gainey</itunes:author>
+ <itunes:subtitle>Nah, bra - that&#039;s not it, because it&#039;s time for The Business of Tech! This week we discuss Google+ Brand Pages, Nook Tablet, Verizon&#039;s LTE push, WebOS,  the death of mobile Flash and much, much more. So set aside 1 hour and 31 minutes to take some heat...</itunes:subtitle>
+ <itunes:summary>Nah, bra - that&#039;s not it, because it&#039;s time for The Business of Tech! This week we discuss Google+ Brand Pages, Nook Tablet, Verizon&#039;s LTE push, WebOS,  the death of mobile Flash and much, much more. So set aside 1 hour and 31 minutes to take some heat with Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+ TBOT #59 - Window of Opportunity - Show Notes
+Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_59_the_business_of_tech_podcast_0.mp3</guid>
+</item>
+<item>
+ <title>Episode 58: If You&#039;re Going to be a Monkey, Be a Gorilla!</title>
+ <link>http://businessoftech.com/podcast/136/episode-58-if-youre-going-be-monkey-be-gorilla</link>
+ <description>&lt;p&gt;I hope you&#039;re in a good mood because it&#039;s time for The Business of Tech! This week we discuss TBOT&#039;s new a capella theme song, Disney streaming content, HP keeping PCs, Nokia World,  Google Reader pushing to Google+, Groupons 50% IPO and much, much more. So set aside 2 hours and 4 minutes to hum some tunes Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.&lt;/p&gt;
+&lt;p&gt;Hosts: &lt;a href=&quot;http://twitter.com/kwegner&quot;&gt; Kyle Wegner&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/jerellegainey&quot;&gt; Jerelle Gainey &lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://businessoftech.com/show-notes/135/episode-58-if-youre-going-be-monkey-be-gorilla&quot;&gt; TBOT #58 - If You&#039;re Going to be a Monkey, Be a Gorilla! - Show Notes&lt;/a&gt;&lt;br /&gt;
+Music by: &lt;a href=&quot;http://www.jamendo.com/en/album/62152&quot;&gt; The Dust Road&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://businessoftech.com/podcast/136/episode-58-if-youre-going-be-monkey-be-gorilla#comments</comments>
+ <pubDate>Fri, 04 Nov 2011 02:02:20 +0000</pubDate>
+ <enclosure url="http://businessoftech.com/sites/default/files/episode_58_the_business_of_tech_podcast.mp3" length="92720901" type="audio/mpeg" />
+ <itunes:duration>130:15</itunes:duration>
+ <itunes:author>Kyle Wegner &amp; Jerelle Gainey</itunes:author>
+ <itunes:subtitle>I hope you&#039;re in a good mood because it&#039;s time for The Business of Tech! This week we discuss TBOT&#039;s new a capella theme song, Disney streaming content, HP keeping PCs, Nokia World,  Google Reader pushing to Google+, Groupons 50% IPO and much, much mor...</itunes:subtitle>
+ <itunes:summary>I hope you&#039;re in a good mood because it&#039;s time for The Business of Tech! This week we discuss TBOT&#039;s new a capella theme song, Disney streaming content, HP keeping PCs, Nokia World,  Google Reader pushing to Google+, Groupons 50% IPO and much, much more. So set aside 2 hours and 4 minutes to hum some tunes Kyle Wegner and  Jerelle Gainey on The Business of Tech podcast.
+Hosts:  Kyle Wegner &amp;  Jerelle Gainey 
+ TBOT #58 - If You&#039;re Going to be a Monkey, Be a Gorilla! - Show Notes
+Music by:  The Dust Road
+</itunes:summary>
+ <guid isPermaLink="false">http://businessoftech.com/sites/default/files/episode_58_the_business_of_tech_podcast.mp3</guid>
+</item>
+</channel>
+</rss>
