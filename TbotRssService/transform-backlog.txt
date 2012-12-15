@@ -1,0 +1,16 @@
+- Strip out HTML tags.
+
+Channel:
+  copyright
+  itunes:author
+  itunes:category
+  itunes:image
+  itunes:keywords
+  itunes:subtitle
+  itunes:summary
+
+Item:
+  itunes:author
+  itunes:image
+  itunes:isClosedCaptioned
+  itunes:keywords
