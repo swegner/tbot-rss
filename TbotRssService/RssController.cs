@@ -12,7 +12,10 @@ namespace TbotRssService
 {
     public class RssController : Controller
     {
-        private static readonly IEnumerable<ISyndicationFeedVisitor> FeedVisitors = new List<ISyndicationFeedVisitor>();
+        private static readonly IEnumerable<ISyndicationFeedVisitor> FeedVisitors = new[]
+        {
+            new LinkReplacer(),
+        };
 
         private static readonly IEnumerable<ISyndicationItemVisitor> ItemVisitors = new[]
         {
@@ -30,16 +33,21 @@ namespace TbotRssService
 
          private void TransformFeed(SyndicationFeed feed)
          {
+             SyndicationVisitorContext context = new SyndicationVisitorContext
+             {
+                RssUrl = new Uri(this.Url.Action("Feed", "Rss", null, this.Request.Url.Scheme)),
+             };
+
              foreach (ISyndicationFeedVisitor feedVisitor in RssController.FeedVisitors)
              {
-                 feedVisitor.TransformFeed(feed);
+                 feedVisitor.TransformFeed(feed, context);
              }
 
              foreach (var item in feed.Items)
              {
                  foreach (ISyndicationItemVisitor itemVisitor in RssController.ItemVisitors)
                  {
-                     itemVisitor.TransformItem(item);
+                     itemVisitor.TransformItem(item, context);
                  }
              }
          }

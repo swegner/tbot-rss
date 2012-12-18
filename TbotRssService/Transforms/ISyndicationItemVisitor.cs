@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.ServiceModel.Syndication;
-using System.Web;
+﻿using System.ServiceModel.Syndication;
+using TbotRssService.Transforms;
 
 namespace TbotRssService
 {
     public interface ISyndicationItemVisitor
     {
-        void TransformItem(SyndicationItem item);
+        void TransformItem(SyndicationItem item, SyndicationVisitorContext context);
     }
 }

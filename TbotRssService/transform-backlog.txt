@@ -1,5 +1,3 @@
-- Replace feed link
-
 Channel:
   copyright
   itunes:author
