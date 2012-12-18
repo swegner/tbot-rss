@@ -121,13 +121,14 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Transforms\HtmlRemover.cs" />
+    <Compile Include="Transforms\AddCopyright.cs" />
+    <Compile Include="Transforms\RemoveHtml.cs" />
     <Compile Include="Transforms\ISyndicationFeedVisitor.cs" />
     <Compile Include="Transforms\ISyndicationItemVisitor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RssController.cs" />
     <Compile Include="SyndicationFeedResult.cs" />
-    <Compile Include="Transforms\LinkReplacer.cs" />
+    <Compile Include="Transforms\ReplaceLink.cs" />
     <Compile Include="Transforms\SyndicationVisitorContext.cs" />
   </ItemGroup>
   <ItemGroup>

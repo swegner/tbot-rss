@@ -4,7 +4,7 @@ using System.Xml.Linq;
 
 namespace TbotRssService.Transforms
 {
-    public class HtmlRemover : ISyndicationItemVisitor
+    public class RemoveHtml : ISyndicationItemVisitor
     {
         private static readonly XNamespace ItunesNS = "http://www.itunes.com/dtds/podcast-1.0.dtd";
 

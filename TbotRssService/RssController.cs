@@ -12,14 +12,15 @@ namespace TbotRssService
 {
     public class RssController : Controller
     {
-        private static readonly IEnumerable<ISyndicationFeedVisitor> FeedVisitors = new[]
+        private static readonly IEnumerable<ISyndicationFeedVisitor> FeedVisitors = new ISyndicationFeedVisitor[]
         {
-            new LinkReplacer(),
+            new AddCopyright(), 
+            new ReplaceLink(),
         };
 
         private static readonly IEnumerable<ISyndicationItemVisitor> ItemVisitors = new[]
         {
-            new HtmlRemover(),
+            new RemoveHtml(),
         };
 
          public SyndicationFeedResult Feed()

@@ -1,5 +1,4 @@
 Channel:
-  copyright
   itunes:author
   itunes:category
   itunes:image

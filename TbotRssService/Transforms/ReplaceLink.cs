@@ -3,7 +3,7 @@ using System.ServiceModel.Syndication;
 
 namespace TbotRssService.Transforms
 {
-    public class LinkReplacer : ISyndicationFeedVisitor
+    public class ReplaceLink : ISyndicationFeedVisitor
     {
         public void TransformFeed(SyndicationFeed feed, SyndicationVisitorContext context)
         {
