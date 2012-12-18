@@ -1,4 +1,4 @@
-- Strip out HTML tags.
+- Replace feed link
 
 Channel:
   copyright

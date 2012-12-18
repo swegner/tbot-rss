@@ -13,7 +13,12 @@ namespace TbotRssService
 
             using (TextWriter tWriter = new StringWriter())
             {
-                using (XmlTextWriter writer = new XmlTextWriter(tWriter))
+                using (XmlTextWriter writer = new XmlTextWriter(tWriter)
+                {
+#if (DEBUG)
+                    Formatting = Formatting.Indented
+#endif
+                })
                 {
                     feed.SaveAsRss20(writer);
                 }

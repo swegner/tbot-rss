@@ -6,13 +6,18 @@ using System.ServiceModel.Syndication;
 using System.Web.Http;
 using System.Web.Mvc;
 using System.Xml;
+using TbotRssService.Transforms;
 
 namespace TbotRssService
 {
     public class RssController : Controller
     {
         private static readonly IEnumerable<ISyndicationFeedVisitor> FeedVisitors = new List<ISyndicationFeedVisitor>();
-        private static readonly IEnumerable<ISyndicationItemVisitor> ItemVisitors = new List<ISyndicationItemVisitor>(); 
+
+        private static readonly IEnumerable<ISyndicationItemVisitor> ItemVisitors = new[]
+        {
+            new HtmlRemover(),
+        };
 
          public SyndicationFeedResult Feed()
          {
