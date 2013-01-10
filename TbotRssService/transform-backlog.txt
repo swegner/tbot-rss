@@ -1,4 +1,5 @@
 Channel:
+  language: en-us
   itunes:author
   itunes:category
   itunes:image

@@ -118,6 +118,7 @@
   <ItemGroup>
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Constants.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -130,11 +131,15 @@
     <Compile Include="SyndicationFeedResult.cs" />
     <Compile Include="Transforms\ReplaceLink.cs" />
     <Compile Include="Transforms\SyndicationVisitorContext.cs" />
+    <Compile Include="Utf8StringWriter.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
-    <Content Include="sample-data.txt">
+    <Content Include="sample-data.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="sample-podcast.xml">
       <SubType>Designer</SubType>
     </Content>
     <Content Include="transform-backlog.txt" />

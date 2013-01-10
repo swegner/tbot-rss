@@ -7,10 +7,11 @@ namespace TbotRssService.Transforms
     {
         public void TransformFeed(SyndicationFeed feed, SyndicationVisitorContext context)
         {
-            feed.BaseUri = context.RssUrl;
+            // TODO: Separate BaseUri
+            feed.BaseUri = null;
             if (feed.Links.Any())
             {
-                feed.Links[0] = new SyndicationLink(context.RssUrl);
+                feed.Links[0] = new SyndicationLink(context.RssUrl, "alternate", title: null, mediaType: null, length: 0);
             }
         }
     }

@@ -1,5 +1,6 @@
 ﻿using System.IO;
 using System.ServiceModel.Syndication;
+using System.Text;
 using System.Web.Mvc;
 using System.Xml;
 
@@ -11,19 +12,25 @@ namespace TbotRssService
         {
             this.ContentType = "application/rss+xml";
 
-            using (TextWriter tWriter = new StringWriter())
+            using (StringWriter stringWriter = new Utf8StringWriter())
             {
-                using (XmlTextWriter writer = new XmlTextWriter(tWriter)
+                using (XmlWriter writer = XmlWriter.Create(stringWriter, new XmlWriterSettings
                 {
-#if (DEBUG)
-                    Formatting = Formatting.Indented
-#endif
-                })
+                    Indent = true,
+                    ConformanceLevel = ConformanceLevel.Document,
+                    CheckCharacters = true,
+                    NamespaceHandling = NamespaceHandling.OmitDuplicates,
+                    OmitXmlDeclaration = false,
+                    Encoding = Encoding.UTF8,
+                }))
                 {
-                    feed.SaveAsRss20(writer);
+                    Rss20FeedFormatter formatter = feed.GetRss20Formatter(serializeExtensionsAsAtom: false);
+                    formatter.PreserveAttributeExtensions = true;
+                    formatter.PreserveAttributeExtensions = true;
+                    formatter.WriteTo(writer);
                 }
 
-                this.Content = tWriter.ToString();
+                this.Content = stringWriter.ToString();
             }
         }
     }

@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.IO;
 using System.Reflection;
 using System.ServiceModel.Syndication;
-using System.Web.Http;
 using System.Web.Mvc;
 using System.Xml;
+using System.Xml.Schema;
 using TbotRssService.Transforms;
 
 namespace TbotRssService
@@ -58,9 +58,12 @@ namespace TbotRssService
              SyndicationFeed feed;
 
              string executingDirectory = Path.GetDirectoryName(new Uri(Assembly.GetExecutingAssembly().CodeBase).LocalPath);
-             string sampleDataFile = Path.Combine(executingDirectory, "sample-data.txt");
+             string sampleDataFile = Path.Combine(executingDirectory, "sample-data.xml");
              using (FileStream fileStream = System.IO.File.OpenRead(sampleDataFile))
-             using (XmlReader reader = new XmlTextReader(fileStream))
+             using (XmlReader reader = XmlReader.Create(fileStream, new XmlReaderSettings
+             {
+                 CheckCharacters = true,
+             }))
              {
                  feed = SyndicationFeed.Load(reader);
              }
