@@ -1,18 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Configuration;
-using System.IO;
-using System.Reflection;
-using System.ServiceModel.Syndication;
-using System.Web.Configuration;
-using System.Web.Mvc;
-using System.Xml;
-using System.Xml.Schema;
-using TbotRssService.Configuration;
-using TbotRssService.Transforms;
-
-namespace TbotRssService
+﻿namespace TbotRssService
 {
+    using System;
+    using System.Collections.Generic;
+    using System.IO;
+    using System.Reflection;
+    using System.ServiceModel.Syndication;
+    using System.Web.Configuration;
+    using System.Web.Mvc;
+    using System.Xml;
+
+    using TbotRssService.Configuration;
+    using TbotRssService.Transforms;
+
     public class RssController : Controller
     {
         private static readonly IEnumerable<ISyndicationFeedVisitor> FeedVisitors = new ISyndicationFeedVisitor[]
@@ -31,6 +30,7 @@ namespace TbotRssService
         {
             new AddAuthor(), 
             new AddImage(), 
+            new AddIsClosedCaptioned(), 
             new RemoveHtml(),
         };
 

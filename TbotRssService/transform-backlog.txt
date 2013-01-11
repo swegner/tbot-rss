@@ -1,6 +1,0 @@
-Channel:
-  itunes:summary
-
-Item:
-  itunes:isClosedCaptioned
-  itunes:keywords
