@@ -1,11 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.IO;
 using System.Reflection;
 using System.ServiceModel.Syndication;
+using System.Web.Configuration;
 using System.Web.Mvc;
 using System.Xml;
 using System.Xml.Schema;
+using TbotRssService.Configuration;
 using TbotRssService.Transforms;
 
 namespace TbotRssService
@@ -37,6 +40,7 @@ namespace TbotRssService
              SyndicationVisitorContext context = new SyndicationVisitorContext
              {
                 RssUrl = new Uri(this.Url.Action("Feed", "Rss", null, this.Request.Url.Scheme)),
+                Config = (TbotSection)WebConfigurationManager.GetSection("tbotSection"),
              };
 
              foreach (ISyndicationFeedVisitor feedVisitor in RssController.FeedVisitors)

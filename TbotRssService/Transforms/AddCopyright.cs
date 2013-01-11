@@ -1,5 +1,6 @@
-﻿using System;
+﻿using System.Linq;
 using System.ServiceModel.Syndication;
+using TbotRssService.Configuration;
 
 namespace TbotRssService.Transforms
 {
@@ -7,7 +8,10 @@ namespace TbotRssService.Transforms
     {
         public void TransformFeed(SyndicationFeed feed, SyndicationVisitorContext context)
         {
-            feed.Copyright = new TextSyndicationContent("Kyle Wegner & Jerelle Gainey");
+            string copyright = string.Join(" & ", context.Config.Authors
+                .Cast<AuthorElement>()
+                .Select(a => a.Name));
+            feed.Copyright = new TextSyndicationContent(copyright);
         }
     }
 }
