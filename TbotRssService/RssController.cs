@@ -22,12 +22,14 @@ namespace TbotRssService
             new AddAuthor(), 
             new UpdateLanguage(), 
             new AddCategory(), 
+            new AddImage(), 
         };
 
         private static readonly IEnumerable<ISyndicationItemVisitor> ItemVisitors = new ISyndicationItemVisitor[]
         {
             new RemoveHtml(),
             new AddAuthor(), 
+            new AddImage(), 
         };
 
          public SyndicationFeedResult Feed()

@@ -1,10 +1,8 @@
 Channel:
-  itunes:image
   itunes:keywords
   itunes:subtitle
   itunes:summary
 
 Item:
-  itunes:image
   itunes:isClosedCaptioned
   itunes:keywords
