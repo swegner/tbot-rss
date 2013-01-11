@@ -129,6 +129,7 @@
     <Compile Include="Transforms\AddCopyright.cs" />
     <Compile Include="Transforms\AddAuthor.cs" />
     <Compile Include="Transforms\AddImage.cs" />
+    <Compile Include="Transforms\AddSubtitle.cs" />
     <Compile Include="Transforms\UpdateLanguage.cs" />
     <Compile Include="Transforms\RemoveHtml.cs" />
     <Compile Include="Transforms\ISyndicationFeedVisitor.cs" />

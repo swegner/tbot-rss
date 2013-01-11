@@ -1,6 +1,4 @@
 Channel:
-  itunes:keywords
-  itunes:subtitle
   itunes:summary
 
 Item:
