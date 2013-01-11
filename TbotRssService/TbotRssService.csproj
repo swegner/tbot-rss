@@ -125,6 +125,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Transforms\AddAuthor.cs" />
     <Compile Include="Transforms\AddCopyright.cs" />
     <Compile Include="Transforms\RemoveHtml.cs" />
     <Compile Include="Transforms\ISyndicationFeedVisitor.cs" />
