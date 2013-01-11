@@ -17,19 +17,21 @@ namespace TbotRssService
     {
         private static readonly IEnumerable<ISyndicationFeedVisitor> FeedVisitors = new ISyndicationFeedVisitor[]
         {
-            new AddCopyright(), 
-            new ReplaceLink(),
             new AddAuthor(), 
-            new UpdateLanguage(), 
             new AddCategory(), 
+            new AddCopyright(), 
             new AddImage(), 
+            new AddSubtitle(), 
+            new AddSummary(), 
+            new ReplaceLink(),
+            new UpdateLanguage(), 
         };
 
         private static readonly IEnumerable<ISyndicationItemVisitor> ItemVisitors = new ISyndicationItemVisitor[]
         {
-            new RemoveHtml(),
             new AddAuthor(), 
             new AddImage(), 
+            new RemoveHtml(),
         };
 
          public SyndicationFeedResult Feed()
