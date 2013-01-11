@@ -21,6 +21,7 @@ namespace TbotRssService
             new ReplaceLink(),
             new AddAuthor(), 
             new UpdateLanguage(), 
+            new AddCategory(), 
         };
 
         private static readonly IEnumerable<ISyndicationItemVisitor> ItemVisitors = new ISyndicationItemVisitor[]
@@ -74,6 +75,8 @@ namespace TbotRssService
              {
                  feed = SyndicationFeed.Load(reader);
              }
+
+             feed.AttributeExtensions.Add(new XmlQualifiedName("itunes", "http://www.w3.org/2000/xmlns/"), Constants.ItunesNS.NamespaceName);
 
              return feed;
          }

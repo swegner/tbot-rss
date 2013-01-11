@@ -1,5 +1,4 @@
 Channel:
-  itunes:category
   itunes:image
   itunes:keywords
   itunes:subtitle
