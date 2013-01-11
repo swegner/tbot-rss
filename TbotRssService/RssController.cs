@@ -20,6 +20,7 @@ namespace TbotRssService
             new AddCopyright(), 
             new ReplaceLink(),
             new AddAuthor(), 
+            new UpdateLanguage(), 
         };
 
         private static readonly IEnumerable<ISyndicationItemVisitor> ItemVisitors = new ISyndicationItemVisitor[]
