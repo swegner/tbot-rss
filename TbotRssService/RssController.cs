@@ -35,6 +35,7 @@
             new AddAuthor(), 
             new AddImage(), 
             new AddIsClosedCaptioned(), 
+            new ClearSubtitle(), 
             new RemoveHtml(),
             new RemoveXmlBase(), 
         };
