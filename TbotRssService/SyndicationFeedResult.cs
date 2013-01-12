@@ -1,11 +1,11 @@
-﻿using System.IO;
-using System.ServiceModel.Syndication;
-using System.Text;
-using System.Web.Mvc;
-using System.Xml;
-
-namespace TbotRssService
+﻿namespace TbotRssService
 {
+    using System.IO;
+    using System.ServiceModel.Syndication;
+    using System.Text;
+    using System.Web.Mvc;
+    using System.Xml;
+
     public class SyndicationFeedResult : ContentResult
     {
         public SyndicationFeedResult(SyndicationFeed feed)

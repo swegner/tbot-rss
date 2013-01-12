@@ -3,8 +3,10 @@
     using System;
     using System.Collections.Generic;
     using System.IO;
+    using System.Net;
     using System.Reflection;
     using System.ServiceModel.Syndication;
+    using System.Threading.Tasks;
     using System.Web.Configuration;
     using System.Web.Mvc;
     using System.Xml;
@@ -12,7 +14,7 @@
     using TbotRssService.Configuration;
     using TbotRssService.Transforms;
 
-    public class RssController : Controller
+    public class RssController : AsyncController
     {
         private static readonly IEnumerable<ISyndicationFeedVisitor> FeedVisitors = new ISyndicationFeedVisitor[]
         {
@@ -34,13 +36,32 @@
             new RemoveHtml(),
         };
 
-         public SyndicationFeedResult Feed()
+         public async Task<SyndicationFeedResult> Feed()
          {
-             SyndicationFeed feed = this.LoadFeed();
+             SyndicationFeed feed = await this.LoadFeed();
 
              this.TransformFeed(feed);
 
              return new SyndicationFeedResult(feed);
+         }
+        
+         private async Task<SyndicationFeed> LoadFeed()
+         {
+             SyndicationFeed feed;
+
+             using (WebClient wc = new WebClient())
+             using (Stream stream = await wc.OpenReadTaskAsync(new Uri("http://businessoftech.com/podcast/feed/1")))
+             using (XmlReader reader = XmlReader.Create(stream, new XmlReaderSettings
+             {
+                 CheckCharacters = true,
+             }))
+             {
+                 feed = SyndicationFeed.Load(reader);
+             }
+
+             feed.AttributeExtensions.Add(new XmlQualifiedName("itunes", "http://www.w3.org/2000/xmlns/"), Constants.ItunesNS.NamespaceName);
+
+             return feed;
          }
 
          private void TransformFeed(SyndicationFeed feed)
@@ -63,26 +84,6 @@
                      itemVisitor.TransformItem(item, context);
                  }
              }
-         }
-
-         private SyndicationFeed LoadFeed()
-         {
-             SyndicationFeed feed;
-
-             string executingDirectory = Path.GetDirectoryName(new Uri(Assembly.GetExecutingAssembly().CodeBase).LocalPath);
-             string sampleDataFile = Path.Combine(executingDirectory, "sample-data.xml");
-             using (FileStream fileStream = System.IO.File.OpenRead(sampleDataFile))
-             using (XmlReader reader = XmlReader.Create(fileStream, new XmlReaderSettings
-             {
-                 CheckCharacters = true,
-             }))
-             {
-                 feed = SyndicationFeed.Load(reader);
-             }
-
-             feed.AttributeExtensions.Add(new XmlQualifiedName("itunes", "http://www.w3.org/2000/xmlns/"), Constants.ItunesNS.NamespaceName);
-
-             return feed;
          }
     }
 }
