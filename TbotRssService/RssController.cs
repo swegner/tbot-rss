@@ -24,6 +24,7 @@
             new AddImage(), 
             new AddSubtitle(), 
             new AddSummary(), 
+            new RemoveXmlBase(), 
             new ReplaceLink(),
             new UpdateLanguage(), 
         };
@@ -34,6 +35,7 @@
             new AddImage(), 
             new AddIsClosedCaptioned(), 
             new RemoveHtml(),
+            new RemoveXmlBase(), 
         };
 
         /// <summary>

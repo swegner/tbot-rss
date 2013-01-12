@@ -132,6 +132,7 @@
     <Compile Include="Transforms\AddSubtitle.cs" />
     <Compile Include="Transforms\AddSummary.cs" />
     <Compile Include="Transforms\AddIsClosedCaptioned.cs" />
+    <Compile Include="Transforms\RemoveXmlBase.cs" />
     <Compile Include="Transforms\UpdateLanguage.cs" />
     <Compile Include="Transforms\RemoveHtml.cs" />
     <Compile Include="Transforms\ISyndicationFeedVisitor.cs" />
