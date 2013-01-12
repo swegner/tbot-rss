@@ -119,6 +119,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Configuration\AuthorCollection.cs" />
+    <Compile Include="Configuration\AuthorCollectionExtensions.cs" />
     <Compile Include="Configuration\AuthorElement.cs" />
     <Compile Include="Configuration\TbotSection.cs" />
     <Compile Include="Constants.cs" />
@@ -132,6 +133,7 @@
     <Compile Include="Transforms\AddSubtitle.cs" />
     <Compile Include="Transforms\AddSummary.cs" />
     <Compile Include="Transforms\AddIsClosedCaptioned.cs" />
+    <Compile Include="Transforms\FixupOwner.cs" />
     <Compile Include="Transforms\RemoveXmlBase.cs" />
     <Compile Include="Transforms\UpdateLanguage.cs" />
     <Compile Include="Transforms\RemoveHtml.cs" />

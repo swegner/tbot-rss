@@ -1,6 +1,5 @@
 ﻿namespace TbotRssService.Transforms
 {
-    using System.Linq;
     using System.ServiceModel.Syndication;
     using TbotRssService.Configuration;
 
@@ -18,8 +17,7 @@
 
         private void AddAuthorElement(SyndicationElementExtensionCollection elementExtensions, SyndicationVisitorContext context)
         {
-            string authors = string.Join(" & ", context.Config.Authors.Cast<AuthorElement>().Select(a => a.Name));
-            elementExtensions.Add("author", Constants.ItunesNS.NamespaceName, authors);
+            elementExtensions.Add("author", Constants.ItunesNS.NamespaceName, context.Config.Authors.GetAuthorsString());
         }
     }
 }

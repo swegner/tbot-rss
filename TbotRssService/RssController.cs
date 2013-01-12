@@ -24,6 +24,7 @@
             new AddImage(), 
             new AddSubtitle(), 
             new AddSummary(), 
+            new FixupOwner(), 
             new RemoveXmlBase(), 
             new ReplaceLink(),
             new UpdateLanguage(), 
