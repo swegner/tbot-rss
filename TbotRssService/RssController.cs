@@ -36,6 +36,7 @@
             new AddImage(), 
             new AddIsClosedCaptioned(), 
             new ClearSubtitle(), 
+            new FixupGuid(), 
             new RemoveHtml(),
             new RemoveXmlBase(), 
         };

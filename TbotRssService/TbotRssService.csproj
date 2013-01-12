@@ -134,6 +134,7 @@
     <Compile Include="Transforms\AddSummary.cs" />
     <Compile Include="Transforms\AddIsClosedCaptioned.cs" />
     <Compile Include="Transforms\ClearSubtitle.cs" />
+    <Compile Include="Transforms\FixupGuid.cs" />
     <Compile Include="Transforms\FixupOwner.cs" />
     <Compile Include="Transforms\RemoveXmlBase.cs" />
     <Compile Include="Transforms\UpdateLanguage.cs" />
