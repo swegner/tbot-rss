@@ -10,7 +10,7 @@ namespace TbotRssService
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
             routes.MapRoute(
-                name: "Default",
+                name: "rss",
                 url: "{controller}/{action}",
                 defaults: new { controller = "Rss", action = "Feed" }
             );

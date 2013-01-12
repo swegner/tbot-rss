@@ -118,17 +118,38 @@
   <ItemGroup>
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Configuration\AuthorCollection.cs" />
+    <Compile Include="Configuration\AuthorElement.cs" />
+    <Compile Include="Configuration\TbotSection.cs" />
+    <Compile Include="Constants.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Transforms\AddCategory.cs" />
+    <Compile Include="Transforms\AddCopyright.cs" />
+    <Compile Include="Transforms\AddAuthor.cs" />
+    <Compile Include="Transforms\AddImage.cs" />
+    <Compile Include="Transforms\AddSubtitle.cs" />
+    <Compile Include="Transforms\AddSummary.cs" />
+    <Compile Include="Transforms\AddIsClosedCaptioned.cs" />
+    <Compile Include="Transforms\UpdateLanguage.cs" />
+    <Compile Include="Transforms\RemoveHtml.cs" />
+    <Compile Include="Transforms\ISyndicationFeedVisitor.cs" />
+    <Compile Include="Transforms\ISyndicationItemVisitor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RssController.cs" />
     <Compile Include="SyndicationFeedResult.cs" />
+    <Compile Include="Transforms\ReplaceLink.cs" />
+    <Compile Include="Transforms\SyndicationVisitorContext.cs" />
+    <Compile Include="Utf8StringWriter.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
-    <Content Include="sample-data.txt">
+    <Content Include="sample-data.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="sample-podcast.xml">
       <SubType>Designer</SubType>
     </Content>
     <Content Include="Web.config" />

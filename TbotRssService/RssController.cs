@@ -1,20 +1,68 @@
-﻿using System;
-using System.IO;
-using System.Reflection;
-using System.ServiceModel.Syndication;
-using System.Web.Http;
-using System.Web.Mvc;
-using System.Xml;
-
-namespace TbotRssService
+﻿namespace TbotRssService
 {
+    using System;
+    using System.Collections.Generic;
+    using System.IO;
+    using System.Reflection;
+    using System.ServiceModel.Syndication;
+    using System.Web.Configuration;
+    using System.Web.Mvc;
+    using System.Xml;
+
+    using TbotRssService.Configuration;
+    using TbotRssService.Transforms;
+
     public class RssController : Controller
     {
+        private static readonly IEnumerable<ISyndicationFeedVisitor> FeedVisitors = new ISyndicationFeedVisitor[]
+        {
+            new AddAuthor(), 
+            new AddCategory(), 
+            new AddCopyright(), 
+            new AddImage(), 
+            new AddSubtitle(), 
+            new AddSummary(), 
+            new ReplaceLink(),
+            new UpdateLanguage(), 
+        };
+
+        private static readonly IEnumerable<ISyndicationItemVisitor> ItemVisitors = new ISyndicationItemVisitor[]
+        {
+            new AddAuthor(), 
+            new AddImage(), 
+            new AddIsClosedCaptioned(), 
+            new RemoveHtml(),
+        };
+
          public SyndicationFeedResult Feed()
          {
              SyndicationFeed feed = this.LoadFeed();
 
+             this.TransformFeed(feed);
+
              return new SyndicationFeedResult(feed);
+         }
+
+         private void TransformFeed(SyndicationFeed feed)
+         {
+             SyndicationVisitorContext context = new SyndicationVisitorContext
+             {
+                RssUrl = new Uri(this.Url.Action("Feed", "Rss", null, this.Request.Url.Scheme)),
+                Config = (TbotSection)WebConfigurationManager.GetSection("tbotSection"),
+             };
+
+             foreach (ISyndicationFeedVisitor feedVisitor in RssController.FeedVisitors)
+             {
+                 feedVisitor.TransformFeed(feed, context);
+             }
+
+             foreach (var item in feed.Items)
+             {
+                 foreach (ISyndicationItemVisitor itemVisitor in RssController.ItemVisitors)
+                 {
+                     itemVisitor.TransformItem(item, context);
+                 }
+             }
          }
 
          private SyndicationFeed LoadFeed()
@@ -22,12 +70,17 @@ namespace TbotRssService
              SyndicationFeed feed;
 
              string executingDirectory = Path.GetDirectoryName(new Uri(Assembly.GetExecutingAssembly().CodeBase).LocalPath);
-             string sampleDataFile = Path.Combine(executingDirectory, "sample-data.txt");
+             string sampleDataFile = Path.Combine(executingDirectory, "sample-data.xml");
              using (FileStream fileStream = System.IO.File.OpenRead(sampleDataFile))
-             using (XmlReader reader = new XmlTextReader(fileStream))
+             using (XmlReader reader = XmlReader.Create(fileStream, new XmlReaderSettings
+             {
+                 CheckCharacters = true,
+             }))
              {
                  feed = SyndicationFeed.Load(reader);
              }
+
+             feed.AttributeExtensions.Add(new XmlQualifiedName("itunes", "http://www.w3.org/2000/xmlns/"), Constants.ItunesNS.NamespaceName);
 
              return feed;
          }
